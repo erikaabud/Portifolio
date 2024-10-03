@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #eea8cb; /* Fundo claro e suave */
+    color: #333; 
+}
+
+header {
+    background-color: #ef00b7; /* Rosa suave */
+    padding: 15px 20px; 
+    text-align: center; 
+    border-bottom: 3px solid #ffb3b3; /* Borda suave */
+}
+
+header a {
+    color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    margin: 0 20px; 
+    font-weight: bold; 
+    font-size: 1.1em; /* Tamanho do texto maior */
+}
+
+header a:hover {
+    text-decoration: underline; 
+    color: #ffebee; /* Cor de hover mais clara */
+}
+
+h1 {
+    text-align: center; 
+    margin-top: 40px; 
+    color: #56054a; /* Tom de vermelho suave */
+    font-size: 2.5em; /* Tamanho do título maior */
+}
+
+p {
+    max-width: 500px; 
+    margin: 30px auto; 
+    line-height: 1.8; 
+    font-size: 1.1em; 
+    padding: 0 20px; 
+    text-align: center; /* Centraliza o parágrafo */
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto; 
+    background-color: #f867ec;
+    padding: 20px; 
+    text-align: center;
+}
